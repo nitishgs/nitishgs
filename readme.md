@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nitish GS</h1>
 <h3 align="center">A passionate AWS developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn3.vectorstock.com%2Fi%2F1000x1000%2F73%2F07%2Fprogramming-isometric-man-vector-28837307.jpg&tbnid=Jo3Bc3AlEyWF_M&vet=12ahUKEwju9oz5hdb_AhX7sGMGHXHBATUQMygVegUIARDPAQ..i&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fprogramming-isometric-man-vector-28837307&docid=8bKOXWIY2grG_M&w=1000&h=1080&itg=1&q=animated%20coding%20gif&hl=en&ved=2ahUKEwju9oz5hdb_AhX7sGMGHXHBATUQMygVegUIARDPAQ">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/nitishgs/nitishgs/assets/122880150/4e59de21-60f7-457b-8c53-5c8128098f5d)
+">
 
 - 🌱 I’m currently learning **Azure & GCP**
 
