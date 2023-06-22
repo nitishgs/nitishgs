@@ -1,3 +1,4 @@
+![logo] (https://github.com/nitishgs/nitishgs/blob/main/png_20230622_103020_0000.png)
 <h1 align="center">Hi 👋, I'm Nitish GS</h1>
 <h3 align="center">A passionate AWS developer from India</h3>
 
