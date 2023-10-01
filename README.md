@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitish GS</h1>
-<h3 align="center">A passionate AWS developer from India</h3>
-- 🌱 I’m currently learning **Azure & GCP**
+<h3 align="center">A passionate Devops Engineer from India</h3>
+- 🌱 I’m currently learning **AWS & AZURE**
 
 - 📫 How to reach me **nitishsable99@hotmail.com**
 
